@@ -52,3 +52,7 @@ body {
 .form-element #todo-submit:hover {
   background-color: #777a7b;
 }
+
+#todo-title > mark{
+  background: #67facb;
+}
